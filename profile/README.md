@@ -9,7 +9,7 @@ We provide specialized infrastructure to ensure your EAs and Trading Terminals r
 * **WebRTC Integration:** Zero-lag remote access directly via browser (No RDP needed).
 * **Ultra-Low Latency:** Optimized routes to LD4, NY4, and TY3 data centers.
 * **24/7 Uptime:** Bare-metal reliability for automated trading robots.
-* **Linux & Windows:** Flexible environments tailored for MetaTrader 4/5.
+* **Linux & Wine:** Ultimate environments tailored for MetaTrader 4/5.
 
 ## 📖 Essential Resources for Traders
 * [How to Optimize MT5 for Speed](https://mt5run.com/docs/mt5-guide)
